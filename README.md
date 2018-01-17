@@ -1,0 +1,2 @@
+# Diafan_CMS_autoparams_children_category
+Автоматическое подключение характеристик к дочерним категориям для Diafan CMS
